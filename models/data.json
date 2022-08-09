@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "John Smith",
+    "Id": "1111",
+    "Phone": 12345656,
+    "Place": "Sweden"
+  },
+  {
+    "Name": "Mary",
+    "Id": "2222",
+    "Phone": 12345678,
+    "Place": "Denmark"
+  },
+  {
+    "Name": "George Ford",
+    "Id": "3333",
+    "Phone": 12345699,
+    "Place": "Sweden"
+  },
+  {
+    "Name": "Lily James",
+    "Id": "4444",
+    "Phone": 98651234,
+    "Place": "Finland"
+  }
+]
